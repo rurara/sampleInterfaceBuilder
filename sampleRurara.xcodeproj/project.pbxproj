@@ -18,6 +18,8 @@
 		11AAE83717A106C200B82894 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 11AAE83617A106C200B82894 /* Default-568h@2x.png */; };
 		11AAE83A17A106C200B82894 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11AAE83817A106C200B82894 /* MainStoryboard.storyboard */; };
 		11AAE83D17A106C200B82894 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11AAE83C17A106C200B82894 /* ViewController.m */; };
+		11AAE84817A107F000B82894 /* UIViewController+Rurara.m in Sources */ = {isa = PBXBuildFile; fileRef = 11AAE84717A107F000B82894 /* UIViewController+Rurara.m */; };
+		11AAE84A17A10D8500B82894 /* R.png in Resources */ = {isa = PBXBuildFile; fileRef = 11AAE84917A10D8500B82894 /* R.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,9 @@
 		11AAE83917A106C200B82894 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		11AAE83B17A106C200B82894 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		11AAE83C17A106C200B82894 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		11AAE84617A107F000B82894 /* UIViewController+Rurara.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Rurara.h"; sourceTree = "<group>"; };
+		11AAE84717A107F000B82894 /* UIViewController+Rurara.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Rurara.m"; sourceTree = "<group>"; };
+		11AAE84917A10D8500B82894 /* R.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = R.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +61,9 @@
 		11AAE81417A106C200B82894 = {
 			isa = PBXGroup;
 			children = (
+				11AAE84917A10D8500B82894 /* R.png */,
+				11AAE84617A107F000B82894 /* UIViewController+Rurara.h */,
+				11AAE84717A107F000B82894 /* UIViewController+Rurara.m */,
 				11AAE82617A106C200B82894 /* sampleRurara */,
 				11AAE81F17A106C200B82894 /* Frameworks */,
 				11AAE81E17A106C200B82894 /* Products */,
@@ -162,6 +170,7 @@
 				11AAE83517A106C200B82894 /* Default@2x.png in Resources */,
 				11AAE83717A106C200B82894 /* Default-568h@2x.png in Resources */,
 				11AAE83A17A106C200B82894 /* MainStoryboard.storyboard in Resources */,
+				11AAE84A17A10D8500B82894 /* R.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,6 +184,7 @@
 				11AAE82D17A106C200B82894 /* main.m in Sources */,
 				11AAE83117A106C200B82894 /* AppDelegate.m in Sources */,
 				11AAE83D17A106C200B82894 /* ViewController.m in Sources */,
+				11AAE84817A107F000B82894 /* UIViewController+Rurara.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
