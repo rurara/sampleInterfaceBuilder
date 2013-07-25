@@ -3,7 +3,8 @@
 //
 /*
  인터페이스 빌더에서 작업하기 쉽도록 자주 쓰는 기능을 묶어두었습니다
- hp - rurara.ncity.net
+ hp -   http://rurara.ncity.net
+        http://wp.me/p3Lxi1-Z
  mail - kgsin7@gmail.com
  */
 
